@@ -1,0 +1,13 @@
+h1 {
+    color: yellow;
+    background: blue;
+    font-size: 50px;
+  }
+  h2 {
+    color: blue;
+    background: yellow;
+    font-size: 50px;
+  }
+  p {
+    font-size: 30px;
+  }

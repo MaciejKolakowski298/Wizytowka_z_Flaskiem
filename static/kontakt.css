@@ -1,0 +1,27 @@
+h1 {
+    color: yellow;
+    background: blue;
+    font-size: 50px;
+  }
+  h2 {
+    color: blue;
+    background: yellow;
+    font-size: 50px;
+  }
+  ul {
+    font-size: 30px;
+  }
+  h3 {
+    font-size: 50px;
+  }
+  input {
+    color: yellow;
+    background: blue;
+    font-size: 20px;
+    font-weight: bold;
+    width: 6cm;
+    height: 1cm;
+    border-style: solid;
+    border-color: yellow; 
+    border-width: 1px;
+  }
